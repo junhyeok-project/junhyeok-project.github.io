@@ -2,7 +2,9 @@
 layout: post
 title:  "마크다운 연습"
 date:   2022-02-15 00:21:32 +0900
-categories: markdown
+categories: blog
+tags:
+  - [Blog, jekyll, Github, Git, minimal-mistake]
 ---
 
 #제목1입니다
@@ -111,9 +113,9 @@ categories: markdown
 
 ## 이미지
 
-![누우리](https://junhyeok-project.github.io/assets/images/my_dog_nuri2.jpg)
-![예시 이미지](/assets/images/my_dog_nuri2.jpg){:class="img-responsive"}
-![예시 이미지](https://raw.githubusercontent.com/ByungJun25/Wiki/master/Markdown/example_image.jpg)
+![누우리](https://junhyeok-project.github.io/assets/images/my_dog_nuri2.jpg){: width="100" height="100"}
+![예시 이미지](/assets/images/my_dog_nuri2.jpg){:class="img-responsive"}{: width="200" height="200"}
+![예시 이미지](https://raw.githubusercontent.com/ByungJun25/Wiki/master/Markdown/example_image.jpg){: width="100" height="100"}
 ![예시 이미지]("/assets/images/my_dog_nuri2.jpg")
 
 
