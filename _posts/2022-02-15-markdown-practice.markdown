@@ -112,7 +112,9 @@ categories: markdown
 
 ## 이미지
 
-![예시 이미지]("/assets/images/my_dog_nuri2.jpg')
+![누우리](https://junhyeok-project.github.io/assets/images/my_dog_nuri2.jpg)
+![예시 이미지](/assets/images/my_dog_nuri2.jpg)
+![예시 이미지](https://raw.githubusercontent.com/ByungJun25/Wiki/master/Markdown/example_image.jpg)
 ![예시 이미지]("/assets/images/my_dog_nuri2.jpg")
 
 
