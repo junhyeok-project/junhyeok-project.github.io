@@ -1,11 +1,10 @@
 ---
 layout: post
-comments: true
 title:  "댓글달기"
 date:   2022-02-15 00:21:32 +0900
 categories: blog
-tags:
-  - [Blog, jekyll, Github, Git, minimal-mistake, disqus]
+tags: [Blog, jekyll, Github, Git, minimal-mistake, disqus]
+comments: true
 ---
 test
 

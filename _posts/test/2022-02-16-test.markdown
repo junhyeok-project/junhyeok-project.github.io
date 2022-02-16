@@ -3,8 +3,7 @@ layout: post
 title:  "마크다운 연습"
 date:   2022-02-15 00:21:32 +0900
 categories: blog
-tags:
-  - [video, youtube]
+tags: [video, youtube]
   
 feature_row4:
   - image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg

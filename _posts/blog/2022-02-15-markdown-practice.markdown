@@ -3,8 +3,7 @@ layout: post
 title:  "마크다운 연습"
 date:   2022-02-15 00:21:32 +0900
 categories: blog
-tags:
-  - [Blog, jekyll, Github, Git, minimal-mistake]
+tags: [Blog, jekyll, Github, Git, minimal-mistake]
 ---
 
 #제목1입니다
